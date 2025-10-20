@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+mcp-agent
+httpx
+pydantic
+pyyaml
