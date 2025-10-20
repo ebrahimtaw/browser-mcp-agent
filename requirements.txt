@@ -5,4 +5,3 @@ mcp-agent
 httpx
 pydantic
 pyyaml
-openai
