@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Environments
+.env
+venv/
+.venv/
+
+# Frontend as it's not needed for the backend file
+frontend/
+node_modules/
+.next/
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
