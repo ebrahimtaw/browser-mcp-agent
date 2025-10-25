@@ -7,7 +7,7 @@ from .agent_runtime import runtime
 
 app = FastAPI(title="MCP Browser Agent API")
 
-# Allow requests from your frontend
+# Allow requests from the frontend
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
